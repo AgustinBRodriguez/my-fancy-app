@@ -1,3 +1,4 @@
 farm-ng-amiga
 fastapi
 uvicorn[standard]
+python-dotenv
